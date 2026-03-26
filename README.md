@@ -49,17 +49,32 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 & "C:\Install-zabbixAgent2-2026v3.ps1"Z
 ```
 
-### FOR LİNUX (soon)
+### FOR LİNUX 
+
+<img width="610" height="67" alt="image" src="https://github.com/user-attachments/assets/a4767f5f-d168-49df-b99d-cd371cae6fc9" />
+
+Get root access
 
 ```sh
-First grant executable permissions using chmod +x zabbix_agent_7.4_tr_ubuntu.sh
+sudo -s
+```
+
+First, grant executable permissions using
+
+```sh
+chmod +x zabbix-agent2_7.4_tr_ubuntu.sh
 ```
 
 To launch the script:
 
 ```sh
-./zabbix_agent_7.4_tr_ubuntu.sh
+./zabbix-agent2_7.4_tr_ubuntu.sh
+OR
+bash zabbix-agent2_7.4_tr_ubuntu.sh
 ```
+
+<img width="949" height="668" alt="image" src="https://github.com/user-attachments/assets/177a737f-264d-4d59-b215-77388d72b668" />
+
 
 -------------------------------------------------------
 ## TO INSTALL A DIFFERENT VERSION OF ZABBIX AGENT 2
