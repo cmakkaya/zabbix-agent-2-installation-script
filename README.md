@@ -108,6 +108,17 @@ $SERVICE_NAME_A2    = "Zabbix Agent 2"
 $FW_RULE_NAME       = "Zabbix Agent 2 - Port $AGENT2_PORT"
 
 -------------------------------------------------------
+##  CONTROL:
+-------------------------------------------------------
+
+Is there a new line in the agent log? 
+
+
+```sh
+Get-Content "C:\Program Files\Zabbix Agent 2\zabbix_agent2.log" -Wait -Tail 5
+```
+
+-------------------------------------------------------
 ##  References:
 -------------------------------------------------------
     [1] Zabbix Agent 2 Windows Install:
