@@ -13,6 +13,54 @@ I hope they are useful to you.
 
 🙏 I wish you growing success.
 
+
+-------------------------------------------------------
+## USING THE SCRİPT
+-------------------------------------------------------
+
+### FOR WİNDOWS
+
+Run the script by specifying its location in the following command to launch the script.
+
+```sh
+& "C:\Install-zabbixAgent2-2026v3.ps1"Z
+```
+<img width="901" height="76" alt="image" src="https://github.com/user-attachments/assets/2ed6824c-9666-4d51-a72b-42a16f1ef202" />
+
+
+#### CAUTION FOR WİNDOWS
+
+In Windows 11, PowerShell blocks script execution by default. If the script is opening and closing, that's most likely the reason.
+
+To fix this error:
+<img width="1137" height="206" alt="image" src="https://github.com/user-attachments/assets/46384075-75de-46fb-8a61-042017aa75a6" />
+
+1) Open PowerShell as "Run as Administrator."
+
+2) Run the following command:
+
+```sh
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
+```
+
+3) Then run the script:
+
+```sh
+& "C:\Install-zabbixAgent2-2026v3.ps1"Z
+```
+
+### FOR LİNUX (soon)
+
+```sh
+First grant executable permissions using chmod +x zabbix_agent_7.4_tr_ubuntu.sh
+```
+
+To launch the script:
+
+```sh
+./zabbix_agent_7.4_tr_ubuntu.sh
+```
+
 -------------------------------------------------------
 ## TO INSTALL A DIFFERENT VERSION OF ZABBIX AGENT 2
 -------------------------------------------------------
@@ -59,55 +107,6 @@ $SERVICE_NAME_A2    = "Zabbix Agent 2"
 
 $FW_RULE_NAME       = "Zabbix Agent 2 - Port $AGENT2_PORT"
 
-
--------------------------------------------------------
-## USING SCRİPT
--------------------------------------------------------
-
-### FOR WİNDOWS
-
-Run the script by specifying its location in the following command to launch the script.
-
-```sh
-& "C:\Install-zabbixAgent2-2026v3.ps1"Z
-```
-<img width="901" height="76" alt="image" src="https://github.com/user-attachments/assets/2ed6824c-9666-4d51-a72b-42a16f1ef202" />
-
-
-#### CAUTION FOR WİNDOWS
-
-In Windows 11, PowerShell blocks script execution by default. If the script is opening and closing, that's most likely the reason.
-
-To fix this error:
-<img width="1137" height="206" alt="image" src="https://github.com/user-attachments/assets/46384075-75de-46fb-8a61-042017aa75a6" />
-
-1) Open PowerShell as "Run as Administrator."
-
-2) Run the following command:
-
-```sh
-Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
-```
-
-3) Then run the script:
-
-```sh
-& "C:\Install-zabbixAgent2-2026v3.ps1"Z
-```
-
-### FOR LİNUX (soon)
-
-```sh
-First grant executable permissions using chmod +x zabbix_agent_7.4_tr_ubuntu.sh
-```
-
-To launch the script:
-
-```sh
-./zabbix_agent_7.4_tr_ubuntu.sh
-```
-
-
 -------------------------------------------------------
 ##  References:
 -------------------------------------------------------
@@ -122,7 +121,7 @@ To launch the script:
     [5] Windows Firewall via PowerShell:
         https://learn.microsoft.com/en-us/powershell/module/netsecurity/new-netfirewallrule
 
-----------
+-------------------------------------------------------
 
 ## Connect with me 📫 You can learn more about me
 
