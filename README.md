@@ -3,6 +3,16 @@
 This script installs Zabbix Agent 2.
 <img width="900" height="815" alt="image" src="https://github.com/user-attachments/assets/466a44d5-b22f-4941-884e-b63835b5c818" />
 
+----------
+
+## Hi there, <img src = "https://github.com/cmakkaya/cmakkaya/blob/main/wavehand.gif" width = "40" align="center"> Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>  
+
+✏️ Don't forget to follow [my LinkedIn account](https://www.linkedin.com/in/cumhurakkaya/) or [my Medium account](https://cmakkaya.medium.com/)  to be informed about new updates in the repository.
+
+I hope they are useful to you.
+
+🙏 I wish you growing success.
+
 -------------------------------------------------------
 ## TO INSTALL A DIFFERENT VERSION OF ZABBIX AGENT 2
 -------------------------------------------------------
@@ -111,3 +121,11 @@ To launch the script:
         https://learn.microsoft.com/en-us/windows/win32/msi/command-line-options
     [5] Windows Firewall via PowerShell:
         https://learn.microsoft.com/en-us/powershell/module/netsecurity/new-netfirewallrule
+
+----------
+
+## Connect with me 📫 You can learn more about me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/cumhurakkaya/)
+- ✏️ [Medium Articles](https://cmakkaya.medium.com/)  100+ Articles
+- 🌐 [GitHub](https://github.com/cmakkaya/)
