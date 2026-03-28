@@ -29,7 +29,7 @@ Run the script by specifying its location in the following command to launch the
 <img width="896" height="70" alt="image" src="https://github.com/user-attachments/assets/8955ea28-d5d7-44e2-84da-67f971bea575" />
 
 
-#### CAUTION FOR WİNDOWS
+#### CAUTION FOR WİNDOWS 11
 
 In Windows 11, PowerShell blocks script execution by default. If the script is opening and closing, that's most likely the reason.
 
