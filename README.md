@@ -1,6 +1,6 @@
 # Zabbix Agent 2 installation script
 
-This script installs Zabbix Agent 2.
+This script installs Zabbix Agent 2 with an SSL (PSK) connection.
 <img width="900" height="815" alt="image" src="https://github.com/user-attachments/assets/466a44d5-b22f-4941-884e-b63835b5c818" />
 
 ----------
