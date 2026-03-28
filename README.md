@@ -23,7 +23,7 @@ I hope they are useful to you.
 Run the script by specifying its location in the following command to launch the script.
 
 ```sh
-& "C:\zabbix_agent_7.4_tr_win.ps1"
+& "C:\zabbix_agent2_7.4_tr_win.ps1"
 ```
 
 <img width="896" height="70" alt="image" src="https://github.com/user-attachments/assets/8955ea28-d5d7-44e2-84da-67f971bea575" />
@@ -47,7 +47,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 3) Then run the script:
 
 ```sh
-& "C:\zabbix_agent_7.4_tr_win.ps1"Z
+& "C:\zabbix_agent2_7.4_tr_win.ps1"Z
 ```
 
 ### FOR LİNUX 
