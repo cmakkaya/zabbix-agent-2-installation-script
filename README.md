@@ -2,8 +2,12 @@
 
 This script installs Zabbix Agent 2 with encrypted communications using TLS (PSK).
 
+For Ubuntu (English Version) En
 <img width="892" height="1086" alt="image" src="https://github.com/user-attachments/assets/b18068f5-11f5-40e8-8f79-c28195dffe81" />
 
+---
+
+For Windows (Turkish Version) Tr
 <img width="900" height="815" alt="image" src="https://github.com/user-attachments/assets/466a44d5-b22f-4941-884e-b63835b5c818" />
 
 ----------
