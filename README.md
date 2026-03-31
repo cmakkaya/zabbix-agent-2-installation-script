@@ -80,12 +80,12 @@ To launch the script:
 
 ```sh
 # For English-En.
-/zabbix-agent2_7.4_En_ubuntu.sh
+./zabbix-agent2_7.4_En_ubuntu.sh
 OR
 bash zabbix-agent2_7.4_En_ubuntu.sh
 
 # For Turkish-TR.
-/zabbix-agent2_7.4_tr_ubuntu.sh
+./zabbix-agent2_7.4_tr_ubuntu.sh
 OR
 bash zabbix-agent2_7.4_tr_ubuntu.sh
 ```
