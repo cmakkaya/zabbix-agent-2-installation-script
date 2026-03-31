@@ -39,9 +39,12 @@ Note: In the following commands, correct the file path to match your own.
 <img width="896" height="70" alt="image" src="https://github.com/user-attachments/assets/8955ea28-d5d7-44e2-84da-67f971bea575" />
 
 
-#### CAUTION FOR WİNDOWS 11
+#### CAUTION FOR WİNDOWS
 
 In Windows 11, PowerShell blocks script execution by default. If the script is opening and closing, that's most likely the reason.
+
+Or if you receive the following error:
+<img width="841" height="148" alt="image" src="https://github.com/user-attachments/assets/70c46971-4dc0-4ee8-b029-2e4b1143cb1e" />
 
 To fix this error:
 <img width="1137" height="206" alt="image" src="https://github.com/user-attachments/assets/46384075-75de-46fb-8a61-042017aa75a6" />
