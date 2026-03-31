@@ -70,13 +70,22 @@ sudo -s
 First, grant executable permissions using
 
 ```sh
+# For English-En.
+chmod +x zabbix-agent2_7.4_En_ubuntu.sh
+# For Turkish-TR.
 chmod +x zabbix-agent2_7.4_tr_ubuntu.sh
 ```
 
 To launch the script:
 
 ```sh
-./zabbix-agent2_7.4_tr_ubuntu.sh
+# For English-En.
+/zabbix-agent2_7.4_En_ubuntu.sh
+OR
+bash zabbix-agent2_7.4_En_ubuntu.sh
+
+# For Turkish-TR.
+/zabbix-agent2_7.4_tr_ubuntu.sh
 OR
 bash zabbix-agent2_7.4_tr_ubuntu.sh
 ```
