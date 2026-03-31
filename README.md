@@ -33,6 +33,7 @@ Note: In the following commands, correct the file path to match your own.
 
 ```sh
 & "C:\zabbix_agent2_7.4_tr_win.ps1"
+& "C:\Users\Administrator\Desktop\zabbix_agent2_7.4_tr_win.ps1"
 ```
 
 <img width="896" height="70" alt="image" src="https://github.com/user-attachments/assets/8955ea28-d5d7-44e2-84da-67f971bea575" />
