@@ -29,6 +29,8 @@ I hope they are useful to you.
 
 Run the script by specifying its location in the following command to launch the script.
 
+Note: In the following commands, correct the file path to match your own.
+
 ```sh
 & "C:\zabbix_agent2_7.4_tr_win.ps1"
 ```
@@ -54,7 +56,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 3) Then run the script:
 
 ```sh
-& "C:\zabbix_agent2_7.4_tr_win.ps1"Z
+& "C:\zabbix_agent2_7.4_tr_win.ps1"
 ```
 
 ### FOR LİNUX 
