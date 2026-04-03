@@ -7,8 +7,8 @@ For Ubuntu (English Version) En
 
 ---
 
-For Windows (Turkish Version) Tr
-<img width="900" height="815" alt="image" src="https://github.com/user-attachments/assets/466a44d5-b22f-4941-884e-b63835b5c818" />
+For Windows (English Version) En
+<img width="867" height="826" alt="image" src="https://github.com/user-attachments/assets/ff36ed8d-69e9-4187-9b10-4617abc899d4" />
 
 ----------
 
