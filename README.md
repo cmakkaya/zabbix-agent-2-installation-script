@@ -153,7 +153,13 @@ Is there a new line in the agent log?
 
 
 ```sh
+# On Windows:
 Get-Content "C:\Program Files\Zabbix Agent 2\zabbix_agent2.log" -Wait -Tail 5
+
+# On Linux:
+tail -f -n 5 /var/log/zabbix/zabbix_agent2.log
+tail -f /var/log/zabbix/zabbix_agent2.log | grep --color=auto ERROR
+journalctl -u zabbix-agent2 -f
 ```
 
 -------------------------------------------------------
