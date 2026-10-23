@@ -1,5 +1,7 @@
 # Zabbix Agent 2 installation script
 
+
+
 This script installs Zabbix Agent 2 with encrypted communications using TLS (PSK).
 
 For Ubuntu (English Version) En
